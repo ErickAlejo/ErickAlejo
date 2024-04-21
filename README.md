@@ -11,7 +11,7 @@
 </div>
 
 ## 👋 Un Poco Sobre Mi
-Tengo 21 años, vivo actualmente en España 🇪🇸, aunque anteriormente viví en Colombia 🇨🇴. Nací en Venezuela 🇻🇪 y desde pequeño me ha gustado mucho el mundo IT y he aprendido de todo un poco y de todos a quienes conozco algunos roles que he tenido en mi corta carrera son:
+Tengo 21 años, vivo actualmente en España 🇪🇸, aunque anteriormente viví en Colombia 🇨🇴. Nací en Venezuela 🇻🇪 y desde pequeño me ha gustado mucho el mundo IT y he aprendido de todo un poco y de todos a quienes conozco, algunos roles que he tenido en mi corta carrera son:
  1. Soporte Tecnico L1/L2.
  2. Diseño Grafico.
  3. Configurador de Equipos De Red (Routers, Switch, Antenas y muchos otros equipos de red).
