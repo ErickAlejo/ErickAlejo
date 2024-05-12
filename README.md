@@ -16,7 +16,7 @@ Tengo 21 años, vivo actualmente en España 🇪🇸, aunque anteriormente viví
  2. Diseño Grafico.
  3. Configurador de Equipos De Red (Routers, Switch, Antenas y muchos otros equipos de red).
 
-Actualmente Trabajo 100% remoto para una empresa extranjera desarrollando herramientas de red que puedan servir a nuestro equipo profesional de monitoreo y Ingenieros de Red.
+Actualmente Trabajo 100% remoto, desarrollando herramientas de red que puedan servir a nuestro equipo profesional de monitoreo e ingenieros de Red.
 
 
 ## 🚀 Tecnologias Que Manejo
