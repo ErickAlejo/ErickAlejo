@@ -11,7 +11,7 @@ Tengo una sólida trayectoria en Automatización de procesos para ISPs y empresa
 <br>
 
 <p align="left">
-<img width="55%" height="470px" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtkcjA0dnlhb2R1ZzN4NXM3azZjZHllb2t5M2QzZ2F1amh6eXFoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w9Sb2fZrLPxHUFxLV2/giphy.gif" />
+<img width="55%" height="470px" align="right" style="margin-left:10px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtkcjA0dnlhb2R1ZzN4NXM3azZjZHllb2t5M2QzZ2F1amh6eXFoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w9Sb2fZrLPxHUFxLV2/giphy.gif" />
 <h3 align="left">💼 Experiencia Profesional</h3>
 <h4 align="left">- Somos Internet (ISP) - (2024 - Actualidad)</h4>
 <ul align="left">
