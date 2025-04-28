@@ -30,7 +30,8 @@ Tengo una sólida trayectoria en Automatización de procesos para ISPs y empresa
 </ul>
 </p>
 
-<br><br>
+<br>
+<br>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 <img width="12" />
@@ -52,6 +53,8 @@ Tengo una sólida trayectoria en Automatización de procesos para ISPs y empresa
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" />
 </div>
+
+<br>
 
 <div align="center">
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickalejo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" alt="languages graph" />
