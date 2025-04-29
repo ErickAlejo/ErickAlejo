@@ -61,4 +61,11 @@ Tengo una sólida trayectoria en Automatización de procesos para ISPs y empresa
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickalejo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" alt="languages graph" />
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=erickalejo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" alt="stats graph" />
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<img width="100%" src="https://i.imgur.com/Nug6p47.png">
 </div>
